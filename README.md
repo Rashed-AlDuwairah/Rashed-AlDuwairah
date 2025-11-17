@@ -1,6 +1,6 @@
 <h2> Hi, I'm Rashed-AlDuwairah! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 
-<img align='right' src="[https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif](https://i.pinimg.com/1200x/87/99/06/879906d5d9fc255ebe8252a7671264e0.jpg)" width="230">
+<img align='right' src="https://i.pinimg.com/1200x/87/99/06/879906d5d9fc255ebe8252a7671264e0.jpg" width="230">
 
 <p><em>Web Developer & Computer Science Student <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"><br/>
 Future Software Engineer — passionate about building modern, clean, and scalable web applications <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
