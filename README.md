@@ -3,8 +3,10 @@
 <img
   align="right"
   src="https://i.pinimg.com/1200x/87/99/06/879906d5d9fc255ebe8252a7671264e0.jpg"
-  style="width:230px; height:230px; border-radius:50%; object-fit:cover;"
+  width="230"
+  height="230"
 />
+
 
 
 <p><em>Web Developer & Computer Science Student <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"><br/>
