@@ -9,7 +9,7 @@
 
 
 
-<p><em>Web Developer & Computer Science Student <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"><br/>
+<p><em>Web Developer & Computer Science Graduate <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"><br/>
 Future Software Engineer — passionate about building modern, clean, and scalable web applications <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 </em></p>
 
